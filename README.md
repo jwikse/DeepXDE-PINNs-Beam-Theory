@@ -1,3 +1,5 @@
+**Physics-Informed Neural Networks for Euler–Bernoulli Beam Problems**
+
 This repository contains an implementation of Physics-Informed Neural Networks (PINNs) using the DeepXDE library to solve classical Euler–Bernoulli beam problems. The project demonstrates how PINNs can be applied to both forward and inverse mechanics problems across several beam configurations and loading conditions.
 
 **Forward PINN Models**
